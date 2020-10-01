@@ -4,6 +4,8 @@
 
 This has been untested since late 2019.
 
+This is not maintained.
+
 # react-native-audio-exoplayer
 React Native module for playing sound clips on Android. Creation of this module was inspired by [Expo Audio](https://docs.expo.io/versions/v30.0.0/sdk/audio) - the same API is being used here.
 You should be using react-native-audio-exoplayer:
